@@ -1,0 +1,25 @@
+
+body{
+    background-color: lightgreen;
+
+   height: 100%;
+}
+h1{
+    color:rgb(135, 5, 196);
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: oblique;
+}
+h3{
+    color: rgb(230, 23, 168);
+}
+pre{
+    color: darkblue;
+    border: 2px solid rgb(247, 124, 9);
+    border-radius: 10px;
+    background-color: rgb(210, 213, 61);
+    padding: 10px 0px;
+}
+h4{
+    color: darkblue;
+}
